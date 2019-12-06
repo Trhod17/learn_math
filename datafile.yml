@@ -1,0 +1,23 @@
+addition_list:
+  - 1.1
+  - 2
+  - 3
+  - -4
+  - 5
+
+subtraction_list:
+  - 100
+  - 99
+  - -123
+  - 0
+
+multiplication_list:
+  - 2
+  - 3
+  - 5.5
+  - 1
+
+division_list:
+  - 100
+  - 2
+  - -3
