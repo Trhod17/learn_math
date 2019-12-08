@@ -29,7 +29,7 @@ def multiplication(x: List[SupportsFloat]) -> SupportsFloat:
     pass
 
 
-def division(x: List[SupportsFloat]) -> SupportsFloat:
+def division(x: List[SupportsFloat]) -> Float:
     pass
 
 
