@@ -3,7 +3,7 @@ The goal of this project is fairly straight forward.  Build a set of tools that 
 programming the "problems" in Python.
 
 "Why?", you might ask.  Well, like writing in cursive, the ability to pencil out a long math problem is of little use
-in this day and age.  To add fuel to the fire most work situation that require some mathematics are done using a computer
+in this day and age.  To add fuel to the fire most work situations that require some mathematics are done using a computer
 instead of a pencil, yet we are only teaching "programming a computer" to a sub-selection of users who actually need the
 skills.
 
